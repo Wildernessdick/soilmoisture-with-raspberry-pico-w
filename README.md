@@ -21,12 +21,11 @@ Before getting started with this project, make sure you have the following compo
 
 1. Connect the soil moisture sensor to the Pico using jumper wires. Make sure to connect the power, ground, and signal pins correctly.
 2. Connect the OLED display to the Pico using jumper wires. Make sure to connect the power, ground, and data pins correctly.
-3. Copy the `ssd1306.py` file from https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py and save it on your computer.
-4. Open your MicroPython editor and create a new file for the code.
-5. Import the necessary libraries and functions for the project, including `machine`, `time`, `ssd1306`, and `ADC`.
-6. Define the pin numbers for the soil moisture sensor and the OLED display.
-7. Initialize the OLED display and create a function to display the soil moisture levels on the screen.
-8. Create a loop to read the soil moisture levels using the ADC function, and call the display function to show the levels on the OLED display.
+3. Open your MicroPython editor and create a new file for the code.
+4. Import the necessary libraries and functions for the project, including `machine`, `time`, `ssd1306`, and `ADC`.
+5. Define the pin numbers for the soil moisture sensor and the OLED display.
+6. Initialize the OLED display and create a function to display the soil moisture levels on the screen.
+7. Create a loop to read the soil moisture levels using the ADC function, and call the display function to show the levels on the OLED display.
 
 ### Usage
 
