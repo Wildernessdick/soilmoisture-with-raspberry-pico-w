@@ -3,7 +3,8 @@
 This project uses a Pico microcontroller to read soil moisture levels and display them on an OLED display. 
 
 ## Getting Started
-![Setup On](https://raw.githubusercontent.com/Wildernessdick/soilmoisture-with-raspberry-pico-w/main/setupOn.jpg)
+<img src="https://raw.githubusercontent.com/Wildernessdick/soilmoisture-with-raspberry-pico-w/main/setupOn.jpg?token=GHSAT0AAAAAABZQAD5VT5YGG5PI3N7T5IAKZAKBX7Q" alt="Setup On" width="666"/>
+
 
 ### Prerequisites
 
