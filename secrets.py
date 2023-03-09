@@ -1,0 +1,2 @@
+SSID = "wlanName"
+PASSWORD = "password"
