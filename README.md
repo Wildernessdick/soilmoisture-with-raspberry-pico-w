@@ -42,3 +42,4 @@ To use the project, follow these steps:
 ## Acknowledgments
 
 - Thanks to [stlehmann](https://github.com/stlehmann) for the `ssd1306.py` file.
+- Part of the code is from unknown coder.
